@@ -1,12 +1,12 @@
 package TypeShootGame;
-import java.io.IOException;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.Random;
 
 public class GameModel {
-List allLogo;
+List<String> allLogo;
 String word1 = new String();
 String word2 = new String();
 
