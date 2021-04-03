@@ -1,6 +1,5 @@
 package TypeShootGame;
 
-import java.util.Random;
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.event.ActionEvent;
