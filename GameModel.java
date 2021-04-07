@@ -15,6 +15,7 @@ public GameModel(){
     word1 = "-";
     word2 = "-";
 }   
+    //testtt
 
 public void initializeLogo(){
     allLogo = new ArrayList<String>();
